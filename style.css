@@ -15,7 +15,16 @@ body{
     100% {background-color: blue;}
 }
 
-main{
+#hinweis{
+    margin: 30vh auto;
+    position: fixed;
+    top: 35vh;
+    left: 28vw;
+    font-weight: bold;
+    opacity: 0;
+}
+
+#main{
     background-color: white;
     width: 70vw;
     margin:25vh auto ;
