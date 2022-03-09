@@ -9,9 +9,9 @@ body{
 @keyframes hinta{
     0%  {background-color: blue;}
     25% {background-color: purple;}
-    50% {background-color: red; }
-    70% {background-color: rgb(255, 217, 0);}
-    90% {background-color: rgb(95, 151, 255);}
+    50% {background-color: rgb(156, 29, 29); }
+    70% {background-color: rgb(211, 179, 0);}
+    90% {background-color: rgb(87, 155, 107);}
     100% {background-color: blue;}
 }
 
