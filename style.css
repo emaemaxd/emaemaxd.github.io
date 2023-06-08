@@ -1,26 +1,14 @@
 body{
-    background-color: rgb(255, 217, 0);
-    animation-name: hinta;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-@keyframes hinta{
-    0%  {background-color: blue;}
-    25% {background-color: purple;}
-    50% {background-color: rgb(156, 29, 29); }
-    70% {background-color: rgb(211, 179, 0);}
-    90% {background-color: rgb(87, 155, 107);}
-    100% {background-color: blue;}
+    background-color: bisque;
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 main{
-    background-color: white;
+    background-color: bisque;
     width: 70vw;
     margin: 10vh auto ;
     padding: 8vh;
-    border-radius: 45px;
     border: black solid 5px;
     text-align: center;
 }
@@ -32,5 +20,9 @@ main img{
 
 h1{
     text-align: center;
-    font-weight: bold;
+}
+
+hr {
+    color: peru;
+    width: 100%;
 }
