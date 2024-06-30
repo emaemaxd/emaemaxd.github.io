@@ -1,26 +1,27 @@
 body{
-    background-color: bisque;
+    background-color: #F7F4F3;
     font-family: 'Times New Roman', Times, serif;
 }
 
 main{
-    background-color: bisque;
+    background-color: #F7F4F3;
     width: 70vw;
-    margin: 2vh auto ;
-    padding: 8vh;
+    margin: 1vh auto ;
+    padding: 5vh;
     text-align: center;
-    color: rgb(250, 130, 87);
+    color: #564D4A;
 }
 
 h1{
     text-align: center;
     font-size: 500%;
     padding-bottom: 50px;
-    border-bottom: rgb(250, 130, 87) solid 2px;;
+    border-bottom: #564D4A solid 2px;
 }
 
 h2{
-    font-size: 150%;
+    font-size: 130%;
+    font-family:sans-serif;
 }
 
 hr {
@@ -39,7 +40,7 @@ h3 {
 }
 
 #info div {
-    width: 50%;
+    width: 100%;
 }
 
 #data {
